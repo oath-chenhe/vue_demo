@@ -2,7 +2,6 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view/>
-    <router-link to='/'>vuex测试</router-link>
   </div>
 </template>
 
